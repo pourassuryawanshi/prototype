@@ -1,13 +1,13 @@
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #f4f4f9;
+    background-color: #edf756;
     color: #333;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-image: url("https://github.com/pourassuryawanshi/prototype/blob/main/constitution.jpeg");
+  
 }
 
 .quiz-container {
