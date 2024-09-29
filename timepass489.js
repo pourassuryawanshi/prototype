@@ -15,9 +15,7 @@ const questions = [
         correctAnswer: "Section 7"
     }
 ];
-
-   
-       let currentQuestionIndex = 0;
+let currentQuestionIndex = 0;
 let score = 0;
 
 function loadQuestion() {
@@ -73,3 +71,6 @@ function nextQuestion() {
 }
 
 window.onload = loadQuestion;
+   
+      
+   
